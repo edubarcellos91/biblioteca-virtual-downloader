@@ -1,18 +1,16 @@
 # Biblioteca Virtual Downloader
 
 A simple Python script to download ebooks from the website https://www.bvirtual.com.br/.
-=====
+
 This script was originally created some years ago to download the .png files from various ebooks. It worked flawlessly at the time.
 The website has changed and now the .png files have a worse quality and awhite bar at the bottom to avoid piracy. Another thing is that some images are downloaded in a weird way, with the page occupying 1/4 os the total space, so it is not worth anymore (maybe).
 I do not have access to the library anymore because I already graduated, so a do not guarantee that this script will work after the day it was uploaded.
-=====
 
 ## Requirements
 -  Python 3
 -  Selenium API
 -  Firefox x86
 -  geckodriver
-=====
 
 ## Instructions
 Just run and write the url of the book you want. Before that there some things you need to check:
