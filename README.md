@@ -1,5 +1,5 @@
 # Biblioteca Virtual Downloader
-=====
+
 A simple Python script to download ebooks from the website https://www.bvirtual.com.br/.
 =====
 This script was originally created some years ago to download the .png files from various ebooks. It worked flawlessly at the time.
